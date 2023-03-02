@@ -1,0 +1,7 @@
+﻿  test.c
+E:\Projiect\线性表\线性表\test.c(10,2): warning C4091: “typedef ”: 没有声明变量时忽略“Sq”的左侧
+E:\Projiect\线性表\线性表\test.c(92,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Projiect\线性表\线性表\test.c(92,9): message : 请考虑在格式字符串中使用“%zd”
+E:\Projiect\线性表\线性表\test.c(94,9): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“size_t”
+E:\Projiect\线性表\线性表\test.c(94,9): message : 请考虑在格式字符串中使用“%zd”
+  线性表.vcxproj -> E:\Projiect\线性表\x64\Debug\线性表.exe
